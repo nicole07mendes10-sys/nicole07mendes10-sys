@@ -34,9 +34,7 @@
 
 [![Nicole's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicole07mendes10-sys&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fafafa&area=true&hide_border=true)](https://github.com/nicole07mendes10-sys)
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
